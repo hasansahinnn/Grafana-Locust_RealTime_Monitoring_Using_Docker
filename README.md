@@ -67,5 +67,5 @@ after adding the database,  We import 'locust_dashboard.JSON' file for panel des
 
 </br>
 
-Now you are ready to use it
+<h1>Now you are ready to use it</h1>
 
