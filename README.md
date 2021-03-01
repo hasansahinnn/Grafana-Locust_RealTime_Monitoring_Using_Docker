@@ -69,3 +69,5 @@ after adding the database,  We import 'locust_dashboard.JSON' file for panel des
 
 <h1>Now you are ready to use it</h1>
 
+<h2>SOURCE : <a href="https://medium.com/devopsturkiye/locust-real-time-monitoring-with-grafana-66654bb4b32">BLOG</a></h2>
+
